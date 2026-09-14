@@ -1,0 +1,39 @@
+{
+  "schema": "gaide.catalog.v0.1",
+  "routes": [
+    {
+      "location_id": "moscow-preobrazhenka",
+      "route_id": "moscow-preobrazhenka",
+      "title": "Преображенка: электричество, старообрядцы и город",
+      "description": "Самостоятельная аудиопрогулка по Преображенке: 9 остановок от «Электрозаводской» до Преображенского кладбища.",
+      "geography": {
+        "country_code": "ru",
+        "country_name": "Россия",
+        "city_slug": "moscow",
+        "city_name": "Москва",
+        "location_slug": "preobrazhenskoe",
+        "location_name": "Преображенское"
+      },
+      "language": "ru",
+      "status": "published",
+      "path": "ru/moscow/preobrazhenskoe"
+    },
+    {
+      "location_id": "yoshkar-ola",
+      "route_id": "yoshkar-ola-v0.2",
+      "title": "Йошкар-Ола: прогулка по центру",
+      "description": "Самостоятельная аудиопрогулка по центру Йошкар-Олы: 9 точек и два сценария маршрута.",
+      "geography": {
+        "country_code": "ru",
+        "country_name": "Россия",
+        "city_slug": "yoshkar-ola",
+        "city_name": "Йошкар-Ола",
+        "location_slug": "center",
+        "location_name": "Центр Йошкар-Олы"
+      },
+      "language": "ru",
+      "status": "published",
+      "path": "ru/yoshkar-ola/center"
+    }
+  ]
+}
