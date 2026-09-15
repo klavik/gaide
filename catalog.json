@@ -34,6 +34,23 @@
       "language": "ru",
       "status": "published",
       "path": "ru/yoshkar-ola/center"
+    },
+    {
+      "location_id": "arkhangelsk-center",
+      "route_id": "arkhangelsk-center",
+      "title": "Центр Архангельска",
+      "description": "Самостоятельная аудиопрогулка по центру Архангельска.",
+      "geography": {
+        "country_code": "ru",
+        "country_name": "Россия",
+        "city_slug": "arkhangelsk",
+        "city_name": "Архангельск",
+        "location_slug": "center",
+        "location_name": "Центр"
+      },
+      "language": "ru",
+      "status": "draft",
+      "path": "ru/arkhangelsk/center"
     }
   ]
 }
