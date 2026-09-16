@@ -51,6 +51,23 @@
       "language": "ru",
       "status": "draft",
       "path": "ru/arkhangelsk/center"
+    },
+    {
+      "location_id": "ples-center",
+      "route_id": "ples-center",
+      "title": "Тур про Плёс",
+      "description": "Самостоятельная аудиопрогулка: Тур про Плёс.",
+      "geography": {
+        "country_code": "ru",
+        "country_name": "Россия",
+        "city_slug": "ples",
+        "city_name": "Плёс",
+        "location_slug": "center",
+        "location_name": "Центр"
+      },
+      "language": "ru",
+      "status": "published",
+      "path": "ru/ples/center"
     }
   ]
 }
