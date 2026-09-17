@@ -68,6 +68,23 @@
       "language": "ru",
       "status": "published",
       "path": "ru/ples/center"
+    },
+    {
+      "location_id": "ples-ai-test",
+      "route_id": "ples-ai-test",
+      "title": "AI GUI test · Плёс",
+      "description": "Самостоятельная аудиопрогулка: Тур про Плёс.",
+      "geography": {
+        "country_code": "ru",
+        "country_name": "Россия",
+        "city_slug": "ples",
+        "city_name": "Плёс",
+        "location_slug": "ai-test",
+        "location_name": "AI GUI test"
+      },
+      "language": "ru",
+      "status": "published",
+      "path": "ru/ples/ai-test"
     }
   ]
 }
