@@ -85,6 +85,23 @@
       "language": "ru",
       "status": "published",
       "path": "ru/arkhangelsk/center"
+    },
+    {
+      "location_id": "patara-drevniy-gorod",
+      "route_id": "patara-drevniy-gorod",
+      "title": "Древний город Патара",
+      "description": "Самостоятельная аудиопрогулка: Древний город Патара.",
+      "geography": {
+        "country_code": "ru",
+        "country_name": "Россия",
+        "city_slug": "patara",
+        "city_name": "Патара",
+        "location_slug": "drevniy-gorod",
+        "location_name": "Древний город"
+      },
+      "language": "ru",
+      "status": "published",
+      "path": "ru/patara/drevniy-gorod"
     }
   ]
 }
